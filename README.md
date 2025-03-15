@@ -53,7 +53,7 @@
 
 # Результаты
         Сравнение моделей
-        Метрика 	EasyOCR 	YOLO + EasyOCR 	Faster R-CNN + EasyOCR
+        Метрика 	     EasyOCR 	    YOLO + EasyOCR 	     Faster R-CNN + EasyOCR
         CER 	     80.04% 	    77.87% 	             36.15%
         WER 	     97.25% 	    92.73% 	             69.07%
         IoU 	      4.10% 	     2.32% 	             60.24%
